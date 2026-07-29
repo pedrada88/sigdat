@@ -10,6 +10,23 @@ toc_icon: "cog"
 ---
 
 *Note*: The links for the older conferences and workshops no longer exist on the web. For those links, a snapshot from the Internet Archive is used instead.
+### 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)
+- October 24 –29, 2023
+- Budapest, Hungary
+- [Website](https://2026.emnlp.org)
+
+### 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)
+- November 4 –9, 2025
+- Suzhou, China
+- [Website](https://2025.emnlp.org)
+- [Proceedings](https://aclanthology.org/events/emnlp-2025/)
+
+### 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)
+- November 12 –16, 2024
+- Miami, Florida
+- [Website](https://2024.emnlp.org)
+- [Proceedings](https://aclanthology.org/events/emnlp-2024/)
+
 ### 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)
 - December 6-December 10, 2023
 - Abu Dhabi
