@@ -10,6 +10,11 @@ toc_icon: "cog"
 ---
 
 (**Position**, Name, Affiliation, Country/territory)
+## 2026
+- **President**: Raquel Fernández, University of Amsterdam<br/>
+- **Vice President**: Kai-Wei Chang, UCLA, USA<br/>
+- **Vice President-Elect**: Yue Zhang, Westlake University<br/>
+- **Secretary-Treasurer**: Jose Camacho-Collados, Cardiff University<br/>
 ## 2024
 - **President**: Isabelle Augenstein, University of Copenhagen, Denmark<br/>
 - **Vice President**: Alice Oh, KAIST, Republic of Korea<br/>
