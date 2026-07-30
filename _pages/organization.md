@@ -13,10 +13,10 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 
 ## Officers in 2025
 
-- **President**: Alice Oh, KAIST, Republic of Korea<br/>
+- **President**: Raquel Fernández, University of Amsterdam<br/>
 - **Vice President**: Kai-Wei Chang, UCLA, USA<br/>
-- **Vice President-Elect**: Raquel Fernández, University of Amsterdam, The Netherlands<br/>
-- **Secretary-Treasurer**: Juan Pino, Meta, USA<br/>
+- **Vice President-Elect**: Yue Zhang, Westlake University<br/>
+- **Secretary-Treasurer**: Jose Camacho-Collados, Cardiff University<br/>
 
 [Previous Officers](/officers)
 
