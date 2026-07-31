@@ -31,7 +31,10 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 - Yuji Matsumoto, Nara Institute of Science and Technology, Japan (Asian Representative)
 
 ## Advisory Board Members
-- Anna Korhonen, University of Cambridge, UK<br />
+- Alice Oh, KAIST, Korea<br/>
+- Isabelle Augenstein, University of Copenhagen, Denmark<br/>
+- Juan Pino, Meta, USA<br/>
+- Anna Korhonen, University of Cambridge, UK<br/>
 - Mona Diab, Language Technologies Institute, Carnegie Mellon University, USA<br/>
 - Iryna Gurevych, Technische Universität Darmstadt, Germany<br/>
 - Ani Nenkova, Adobe, USA<br/>
